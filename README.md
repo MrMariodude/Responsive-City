@@ -1,3 +1,10 @@
+<div align="center">
+  <img src="demo.gif" alt="City Skyline Animation Demo" width="500" />
+</div>
+
+<h1 align="center">City Skyline Animation</h1>
+
+
 # City Skyline Animation
 
 Welcome to the City Skyline Animation project! This HTML and CSS code generates a visually appealing city skyline animation that adds a dynamic touch to your web page.
