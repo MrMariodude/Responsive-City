@@ -5,7 +5,6 @@
 <h1 align="center">City Skyline Animation</h1>
 
 
-# City Skyline Animation
 
 Welcome to the City Skyline Animation project! This HTML and CSS code generates a visually appealing city skyline animation that adds a dynamic touch to your web page.
 
