@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="demo.gif" alt="City Skyline Animation Demo" width="500" />
+  <img src="ezgif.com-video-to-gif.gif" alt="City Skyline Animation Demo" width="500" />
 </div>
 
 <h1 align="center">City Skyline Animation</h1>
